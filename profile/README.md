@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, we're GoBerly</h1>
 <h3 align="center">A passionate hosting company from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goberly&label=Profile%20views&color=0e75b6&style=flat" alt="goberly" /> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=goberly&label=Profile%20views&color=0e75b6&style=flat" alt="goberly" /> </p>
 
 
 
