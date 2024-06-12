@@ -2,15 +2,15 @@
 <h3 align="center">A passionate hosting company from Germany</h3>
 <br />
 <div align="center">
-🔭 <b>I’m currently working on:</b><br><br> Enhancing the user experience of our GoBerly platform to provide seamless solutions for our clients.<br><br>
+🔭 <b>We are currently working on:</b><br><br> Enhancing the user experience of our GoBerly platform to provide seamless solutions for our clients.<br><br>
 
-👯 <b>I’m looking to collaborate on:</b><br><br> Developing innovative features for GoBerly with fellow developers passionate about revolutionizing the tech industry.<br>
+👯 <b>We are looking to collaborate on:</b><br><br> Developing innovative features for GoBerly with fellow developers passionate about revolutionizing the tech industry.<br>
 
-🤝 <b>I’m looking for help with:</b><br><br> Integrating cutting-edge technologies into our platform to stay ahead of the curve in the market.<br>
+🤝 <b>We are looking for help with:</b><br><br> Integrating cutting-edge technologies into our platform to stay ahead of the curve in the market.<br>
 
-🌱 <b>I’m currently learning:</b><br><br> How to optimize backend processes and improve scalability to accommodate the growing demands of our users.<br>
+🌱 <b>We are currently learning:</b><br><br> How to optimize backend processes and improve scalability to accommodate the growing demands of our customers.<br>
 
-💬 <b>Ask me about:</b><br><br> Our unique approach to solving complex business challenges through customizable solutions on the GoBerly platform.<br>
+💬 <b>Ask us about:</b><br><br> Our unique approach to solving complex business challenges through customizable solutions on the GoBerly platform.<br>
 
 ⚡ <b>Fun fact:</b><br><br> Our team at GoBerly collectively speaks over 10 different languages, fostering a diverse and inclusive work environment!<br>
 </div>
